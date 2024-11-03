@@ -2,10 +2,10 @@
 
 **Smart Intent Recognition** is an advanced natural language processing project designed to accurately classify user intents using a fine-tuned BERT model. This project is aimed at enhancing user experience in applications like chatbots and virtual assistants by providing precise intent detection.
 
-## Overview
+- ## Dataset Overview
 
-This project leverages the [SNIPS Dataset](https://github.com/snipsco/benckmark-datasets), a comprehensive collection of natural language utterances paired with corresponding user intents. The model aims to understand and categorize user queries effectively.
-
+The **SNIPS Dataset** is a widely used benchmark for evaluating intent detection systems, comprising a collection of over 16,000 diverse user utterances categorized into various intents, such as "Book a Flight," "Get Weather Information," "Play Music," "Order Food," and "Get News Headlines." This dataset features a variety of phrases that users might say, reflecting different ways of expressing the same intent, which helps train robust models capable of generalizing well to real-world applications. Additionally, the SNIPS dataset is designed with a balanced distribution of intents to prevent bias toward any particular class during training. Each utterance is meticulously annotated with a corresponding intent, providing a clear mapping between user inputs and expected outputs. Utilizing this dataset enables the **Smart Intent Recognition** project to effectively comprehend user intents in conversational contexts and enhance the overall performance of NLP applications.
+![dataset ](Image/res2.png)
 
 
 ## Key Features
@@ -24,7 +24,8 @@ This project leverages the [SNIPS Dataset](https://github.com/snipsco/benckmark-
    git clone https://github.com/yourusername/smart-intent-recognition.git
    cd smart-intent-recognition
    pip install -r requirements.txt
-- ## Dataset Overview
 
-The **SNIPS Dataset** is a widely used benchmark for evaluating intent detection systems, comprising a collection of over 16,000 diverse user utterances categorized into various intents, such as "Book a Flight," "Get Weather Information," "Play Music," "Order Food," and "Get News Headlines." This dataset features a variety of phrases that users might say, reflecting different ways of expressing the same intent, which helps train robust models capable of generalizing well to real-world applications. Additionally, the SNIPS dataset is designed with a balanced distribution of intents to prevent bias toward any particular class during training. Each utterance is meticulously annotated with a corresponding intent, providing a clear mapping between user inputs and expected outputs. Utilizing this dataset enables the **Smart Intent Recognition** project to effectively comprehend user intents in conversational contexts and enhance the overall performance of NLP applications.
-
+## Result
+![result](Image/res2.png)
+![result](Image/res1.png)
+![result](Image/resultat.png)
