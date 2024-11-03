@@ -1,0 +1,8 @@
+Python Version: 3.10.12
+Processor: x86_64
+CPU Count: 2
+Total RAM: 12.67 GB
+TensorFlow Version: 2.17.0
+PyTorch Version: 2.5.0+cu121
+Transformers Version: 4.44.2
+Gradio Version: 5.4.0
