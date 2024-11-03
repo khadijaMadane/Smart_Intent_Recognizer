@@ -29,9 +29,9 @@ The **SNIPS Dataset** is a widely used benchmark for evaluating intent detection
 Here are sample predictions of different intents:
 
 ![result](Images/test1.png)
-![result](Image/test2.png)
-![result](Image/test3.png)
-![result](Image/test4.png)
+![result](Images/test2.png)
+![result](Images/test3.png)
+![result](Images/test4.png)
 
 The images above showcase how accurately the model categorizes various user inputs.
 
